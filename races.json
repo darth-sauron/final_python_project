@@ -1,0 +1,218 @@
+{
+    "Dwarf 5e": {
+        "Stat": "Value",
+        "Ability scores": "+2 Con",
+        "Traits": "Darkvision, Dwarven Resilience, Dwarven Combat, Training, Stonecutting",
+        "Subraces": "Hill Dwarf, Mountain Dwarf",
+        "Suggested classes": "Cleric, Fighter, Barbarian, Druid",
+        "Size": "Medium",
+        "Speed": "25ft"
+    },
+    "DnD Elf": {
+        "Stat": "Value",
+        "Ability scores": "+2 Dex",
+        "Traits": "Darkvision, Keen Senses, Fey Ancestry",
+        "Subraces": "High Elf, Wood Elf, Dark Elf",
+        "Suggested classes": "Rogue, Ranger, Wizard, Warlock",
+        "Size": "Medium",
+        "Speed": "30ft"
+    },
+    "Halfling 5e": {
+        "Stat": "Value",
+        "Ability scores": "+2 Dex",
+        "Traits": "Lucky, Brave, Nimbleness",
+        "Subraces": "Lightfoot, Stout",
+        "Suggested classes": "Rogue, Ranger, Bard",
+        "Size": "Small",
+        "Speed": "25ft"
+    },
+    "Human 5e": {
+        "Stat": "Value",
+        "Ability scores": "+1 in all ability scores (or +1 in two ability scores, one feat, and one skill proficiency)",
+        "Traits": " ",
+        "Subraces": " ",
+        "Suggested classes": "Wizard, Cleric, Paladin",
+        "Size": "Medium",
+        "Speed": "30ft"
+    },
+    "Dragonborn": {
+        "Stat": "Value",
+        "Ability scores": "+2 Str, +1 Cha",
+        "Traits": "Breath Weapon, Damage Resistance",
+        "Subraces": "Draconic Ancestry",
+        "Suggested classes": "Paladin, Barbarian, Warlock",
+        "Size": "Medium",
+        "Speed": "30ft"
+    },
+    "Gnome 5e": {
+        "Stat": "Value",
+        "Ability scores": "+2 Int",
+        "Traits": "Small, Darkvision, Gnome Cunning",
+        "Subraces": "Forest Gnome, Rock Gnome",
+        "Suggested classes": "Wizard, Rogue",
+        "Size": "Small",
+        "Speed": "25ft"
+    },
+    "Half-elf 5e": {
+        "Stat": "Value",
+        "Ability scores": "+2 Cha, +1 any ability score",
+        "Traits": "Darkvision, Fey Ancestry, Skill Versatility",
+        "Subraces": " ",
+        "Suggested classes": "Warlock, Sorcerer, Monk",
+        "Size": "Medium",
+        "Speed": "30ft"
+    },
+    "Half-Orc 5e": {
+        "Stat": "Value",
+        "Ability scores": "+2 Str, +1 Con",
+        "Traits": "Darkvision, Menacing, Relentless Endurance, Savage Attacks",
+        "Subraces": " ",
+        "Suggested classes": "Barbarian, Fighter",
+        "Size": "Medium",
+        "Speed": "30ft"
+    },
+    "Tiefling": {
+        "Stat": "Value",
+        "Ability scores": "+2 Cha, +1 Int",
+        "Traits": "Darkvision, Hellish Resistance, Infernal Legacy",
+        "Subraces": " ",
+        "Suggested classes": "Warlock, Sorcerer, Wizard",
+        "Size": "Medium",
+        "Speed": "30ft"
+    },
+    "Aarakocra": {
+        "Stat": "Value",
+        "Ability scores": "+2 Dex, +1 Wis",
+        "Traits": "Flight, Talons",
+        "Subraces": " ",
+        "Suggested classes": "Ranger, Rogue, Fighter",
+        "Size": "Medium",
+        "Speed": "25ft (walking); 50ft (flying while not wearing medium or heavy armor)"
+    },
+    "Genasi": {
+        "Stat": "Value",
+        "Ability scores": "+1 and +2 any two, or +1 any three ability scores",
+        "Traits": "Dependent on subrace",
+        "Subraces": "Air, Earth, Fire, and Water",
+        "Suggested classes": "Cleric, Fighter",
+        "Size": "Medium",
+        "Speed": "30ft"
+    },
+    "Goliath 5e": {
+        "Stat": "Value",
+        "Ability scores": "+2 Str, +1 Con",
+        "Traits": "Natural Athlete, Stone s Endurance, Powerful Build, Mountain Born",
+        "Subraces": " ",
+        "Suggested classes": "Barbarian, Fighter",
+        "Size": "Medium (counts as Large for carrying capacity)",
+        "Speed": "30ft"
+    },
+    "Tabaxi": {
+        "Stat": "Value",
+        "Ability scores": "+1 and +2 any two, or +1 any three",
+        "Traits": "Darkvision, Cat s Claws, Cat s Talent, Feline Agility",
+        "Subraces": " ",
+        "Suggested classes": "Rogue",
+        "Size": "Medium",
+        "Speed": "30ft"
+    },
+    "Kobold": {
+        "Stat": "Value",
+        "Ability scores": "+1 and +2 any two, or +1 any three",
+        "Traits": "Darkvision, Draconic Cry, Kobold Legacy",
+        "Subraces": " ",
+        "Suggested classes": "Fighter, Rogue",
+        "Size": "Small",
+        "Speed": "30ft"
+    },
+    "Kenku 5e": {
+        "Stat": "Value",
+        "Ability scores": "+1 and +2 any two, or +1 any three",
+        "Traits": "Expert Duplication, Kenku Recall, Mimicry",
+        "Subraces": " ",
+        "Suggested classes": "Bard",
+        "Size": "Medium",
+        "Speed": "30ft"
+    },
+    "Tortle 5e": {
+        "Stat": "Value",
+        "Ability scores": "+1 and +2 any two, or +1 any three",
+        "Traits": "Claws, Hold Breath, Natural Armor, Nature s Intuition, Shell Defense",
+        "Subraces": " ",
+        "Suggested classes": "Druid, Ranger",
+        "Size": "Medium",
+        "Speed": "30ft"
+    },
+    "Harengon": {
+        "Stat": "Value",
+        "Ability scores": "+1 and +2 any two, or +1 any three",
+        "Traits": "Hare-Trigger, Leporine Senses, Lucky Footwork, Rabbit Hop",
+        "Subraces": " ",
+        "Suggested classes": "Bard, Rogue, Ranger",
+        "Size": "Medium or Small   choose when you select this race",
+        "Speed": "30ft"
+    },
+    "Shifter 5e": {
+        "Stat": "Value",
+        "Ability scores": " ",
+        "Traits": "Darkvision, Bestial Instincts, Shifting",
+        "Subraces": " ",
+        "Suggested classes": "Barbarian, Fighter",
+        "Size": "Medium",
+        "Speed": "30ft"
+    },
+    "Githyanki": {
+        "Stat": "Value",
+        "Ability scores": "+1 and +2 any two, or +1 any three",
+        "Traits": "Astral Knowledge, Githyanki Psionics, Psychic Resilience",
+        "Subraces": " ",
+        "Best classes": "Fighter, Bard",
+        "Size": "Medium",
+        "Speed": "30ft"
+    },
+    "Githzerai": {
+        "Stat": "Value",
+        "Ability scores": "+1 and +2 any two, or +1 any three",
+        "Traits": "Mental Discipline, Githzerai Psionics, Psychic Resilience",
+        "Subraces": " ",
+        "Best classes": "Sorcerer",
+        "Size": "Medium",
+        "Speed": "30ft"
+    },
+    "Bugbear 5e": {
+        "Stat": "Value",
+        "Ability scores": "+1 and +2 any two, or +1 any three",
+        "Traits": "Fey Ancestry, Long-Limbed, Powerful Build, Sneaky, Surprise Attack",
+        "Subraces": " ",
+        "Classes": "Barbarian, Monk, Warlock",
+        "Size": "Medium",
+        "Speed": "30ft"
+    },
+    "Warforged 5e": {
+        "Stat": "Value",
+        "Ability scores": "+2 Constitution, +1 one other score",
+        "Traits": "Constructed Resilience, Sentry s Rest, Integrated Protection, Specialized Design",
+        "Subraces": " ",
+        "Classes": "Artificer, Barbarian, Cleric",
+        "Size": "Medium",
+        "Speed": "30ft"
+    },
+    "Owlin 5e": {
+        "Stat": "Value",
+        "Ability scores": "+2 and +1 two different stats, or +1 any three",
+        "Traits": "Darkvision (120ft), Flight, Silent Feathers",
+        "Subraces": " ",
+        "Classes": "Rogue, Ranger",
+        "Size": "Medium or small",
+        "Speed": "30ft"
+    },
+    "Aasimar 5e": {
+        "Stat": "Value",
+        "Ability scores": "+2 and +1 two different stats, or +1 any three",
+        "Traits": "Darkvision (60ft), Celestial Resistance, Healing Hands, Light Bearer, Celestial Revelation",
+        "Subraces": " ",
+        "Classes": "Cleric, Warlock, Paladin",
+        "Size": "Medium or small",
+        "Speed": "30ft"
+    }
+}

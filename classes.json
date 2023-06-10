@@ -1,0 +1,114 @@
+{
+    "Barbarian 5e": {
+        "Party role": "Damage dealer, Tank",
+        "Primary ability": "Strength",
+        "Saving throws": "Strength, Constitution",
+        "Hit dice": "1d12 per Level",
+        "HP at 1st level": "12 + Constitution modifier",
+        "Best races": "Dwarf, Half-Orc, Goliath"
+    },
+    "Bard 5e": {
+        "Party role": "Utility, Support, Control",
+        "Primary ability": "Charisma",
+        "Saving throws": "Charisma, Dexterity",
+        "Hit dice": "1d8 per Level",
+        "HP at 1st level": "8+ Constitution modifier",
+        "Best races": "Halfling, Half-Elf, Kenku"
+    },
+    "Cleric 5e": {
+        "Party role": "Support, Healer, Damage dealer",
+        "Primary ability": "Wisdom",
+        "Saving throws": "Wisdom, Charisma",
+        "Hit dice": "1d8 per Level",
+        "HP at 1st level": "8 + Constitution modifier",
+        "Best races": "Human, Dwarf, Aasimar"
+    },
+    "Druid 5e": {
+        "Party role": "Utility, Support, Healer, Control",
+        "Primary ability": "Wisdom",
+        "Saving throws": "Intelligence, Wisdom",
+        "Hit dice": "1d8 per Level",
+        "HP at 1st level": "8 + Constitution modifier",
+        "Best races": "Dwarf, Tortle, Shifter"
+    },
+    "Fighter 5e": {
+        "Party role": "Tank, Damage dealer",
+        "Primary ability": "Strength or Dexterity",
+        "Saving throws": "Strength, Constitution",
+        "Hit dice": "1d10 per Level",
+        "HP at 1st level": "10 + Constitution modifier",
+        "Best races": "Dwarf, Elf, Dragonborn, Half-Orc"
+    },
+    "Monk 5e": {
+        "Party role": "Damage dealer, Control",
+        "Primary ability": "Wisdom & Dexterity",
+        "Saving throws": "Dexterity, Strength (gain all saving throws at level 14)",
+        "Hit dice": "1d8 per Level",
+        "HP at 1st level": "8 + Constitution modifier",
+        "Best races": "Elf, Halfling, Aarakocra, Tortle"
+    },
+    "\u00a0Paladin 5e": {
+        "Party role": "Tank, Damage dealer, Support, Healer",
+        "Primary ability": "Strength & Charisma",
+        "Saving throws": "Wisdom, Charisma",
+        "Hit dice": "1d10 per Level",
+        "HP at 1st level": "10 + Constitution modifier",
+        "Best races": "Dragonborn, Half-Elf, Triton"
+    },
+    "Ranger 5e": {
+        "Party role": "Damage dealer, Utility, Support",
+        "Primary ability": "Dexterity &  Wisdom",
+        "Saving throws": "Dexterity, Strength",
+        "Hit dice": "1d10 per Level",
+        "HP at 1st level": "10 + Constitution modifier",
+        "Best races": "Elf, Halfling, Human, Harengon"
+    },
+    "Rogue 5e": {
+        "Party role": "Damage dealer, Utility",
+        "Primary ability": "Dexterity",
+        "Saving throws": "Dexterity, Intelligence",
+        "Hit dice": "1d8 per Level",
+        "HP at 1st level": "8+ Constitution modifier",
+        "Best races": "Halfling, Elf, Kobold"
+    },
+    "Sorcerer 5e": {
+        "Party role": "Damage dealers, Control",
+        "Primary ability": "Charisma",
+        "Saving throws": "Constitution, Charisma",
+        "Hit dice": "1d6 per Level",
+        "HP at 1st level": "6 + Constitution modifier",
+        "Best races": "Tiefling, Human, Half-elf"
+    },
+    "Warlock 5e": {
+        "Party role": "Utility, Damage dealers, Control",
+        "Primary ability": "Charisma",
+        "Saving throws": "Wisdom, Charisma",
+        "Hit dice": "1d8 per Level",
+        "HP at 1st level": "8 + Constitution modifier",
+        "Best races": "Tiefling, Half-elf, Githzerai"
+    },
+    "Wizard 5e": {
+        "Party role": "Utility, Damage dealers, Control",
+        "Primary ability": "Intelligence",
+        "Saving throws": "Intelligence, Wisdom",
+        "Hit dice": "1d6 per Level",
+        "HP at 1st level": "6 + Constitution modifier",
+        "Best races": "Gnome, Human"
+    },
+    "Artificer 5e": {
+        "Party role": "Support, Utility",
+        "Primary ability": "Intelligence (or Strength or Dexterity)",
+        "Saving throws": "Intelligence and Constitution",
+        "Hit dice": "1d8 per Artificer level",
+        "HP at 1st level": "8 + Constitution modifier",
+        "Best races": "Human, Gnome, Kobold, Warforged"
+    },
+    "Blood Hunter 5e": {
+        "Party role": "Control, Damage dealers",
+        "Primary ability": "Strength or Dexterity",
+        "Saving throws": "Dexterity and Intelligence",
+        "Hit dice": "1d10 per level",
+        "HP at 1st level": "1d10 + Constitution modifier",
+        "Best races": "Dwarf, Elf, Halfling"
+    }
+}
