@@ -1,7 +1,7 @@
 # final_python_project
 s26250
 
-This is a very simple application, which allows the user to create a simple DnD character followinf the 5e rules. First all the information regarding races and classes is scraped from a dedicated website (which was kind enough to allow to make a request using code, unlike some other websites) and this information is stored 
+This is a very simple application, which allows the user to create a simple DnD character following the 5e rules. First all the information regarding races and classes is scraped from a dedicated website (which was kind enough to allow to make a request using code, unlike some other websites) and this information is stored 
 in json files (two separate ones for classes and races). Then the data from those files is processed into the database for a more convinient use later on.
 
 Now for the GUI part. The whole application actually starts with a login/registration window where the user either logs in (i know, shocker) or registers. For various errors there are message boxes in place which will let the user know that something isn't right.
