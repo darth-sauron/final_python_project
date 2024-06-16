@@ -1,4 +1,4 @@
-# final_python_project
+# final_python_project (made in the second semester of the second year of university to showcase understanding of various pyhon components and capabilities)
 s26250
 
 This is a very simple application, which allows the user to create a simple DnD character following the 5e rules. First all the information regarding races and classes is scraped from a dedicated website (which was kind enough to allow to make a request using code, unlike some other websites) and this information is stored 
